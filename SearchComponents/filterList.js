@@ -1,4 +1,5 @@
-/*  -> Description: Função cuja a funcionalidade é capturar o valor digitado pelo usuario. 
+/*  -> Description: Função cuja a funcionalidade é capturar o valor digitado pelo usuario, e filtrar 
+a lista de acordo com as ocorrencias. 
     
     -> Rules: A tag deve possuir o title como o valor do campo e uma classe que diga 
     que a mesma é elegivel ("elegibleSearch").
